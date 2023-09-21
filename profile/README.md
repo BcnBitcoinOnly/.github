@@ -2,4 +2,4 @@
 ![Bitcoin](https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white)
 [![GitHub](https://img.shields.io/github/license/BcnBitcoinOnly/bbo-manifesto)](https://github.com/BcnBitcoinOnly/bbo-manifesto/blob/master/LICENSE)
 
-### Barcelona Bitcoin Only Community GitHub organization
+### Barcelona Bitcoin Only Community
